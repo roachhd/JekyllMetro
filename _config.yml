@@ -7,11 +7,11 @@ highlighter: pygments
 permalink:        /blog/:year/:month/:day/:title
 
 # Setup
-title:            'Jekyll Metro'
-tagline:          'A Metro theme for Jekyll'
-description:      'A Sample blog using Jekyll Metro'
-url:              'http://localhost:4000'
-baseurl:          ''
+title:            'Jekyll Windows'
+tagline:          'A Windows theme for Jekyll'
+description:      'A Sample blog using Jekyll Windows'
+url:              'http://roachhd.github.io/JekyllMetro/'
+baseurl:          'http://roachhd.github.io/JekyllMetro/'
 
 # Navigation
 navigation:
@@ -27,17 +27,18 @@ navigation:
   url : /archive/
 
 # Author Details
-author:         'Abdel Raoof Olakara'
-linkedin:       'https://ae.linkedin.com/in/olakara/'
-twitter:        'https://twitter.com/olakara'
-facebook:       'https://www.facebook.com/olakara'
-gplus:          'https://plus.google.com/100425464897246255887/'
+author:         'Katie Ball'
+linkedin:       'https://linkedin.com//'
+twitter:        'https://twitter.com/mektball'
+facebook:       'https://www.facebook.com/roachhd'
+gplus:          'https://plus.google.com/
+/'
 
 # Google Analytics
-gahandler: 'UA-52149651-1'
+gahandler: 'UA-GOOGLES-1'
 
 # Disqus
-disqushandler: 'testingblogo'
+disqushandler: 'roachhd'
 
 # Blog Configurations
 paginate: 10 # Posts per page on the blog index
